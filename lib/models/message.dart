@@ -6,7 +6,7 @@ class Message {
   final String text;
   final Timestamp createdAt;
 
-  Message({
+  const Message({
     required this.id,
     required this.senderId,
     required this.text,

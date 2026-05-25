@@ -38,6 +38,14 @@ dependencies:
   firebase_auth: ^6.4.0
   cloud_firestore: ^6.3.0
   firebase_storage: ^13.3.0
+  firebase_messaging: ^16.2.2
+
+  # File sharing 
+  file_picker: ^8.1.2           # pick documents (PDF, docx, zip, etc.)
+  url_launcher: ^6.3.0       # open files — no native build hooks
+  path: ^1.9.0                  # file name/extension helpers
+  path_provider: ^2.1.4         # get temp directory for downloads
+
 
 dev_dependencies:
   flutter_test:

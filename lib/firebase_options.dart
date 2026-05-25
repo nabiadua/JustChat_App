@@ -33,10 +33,11 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions _placeholder = FirebaseOptions(
-    apiKey: 'REPLACE_ME',
-    appId: 'REPLACE_ME',
-    messagingSenderId: 'REPLACE_ME',
-    projectId: 'REPLACE_ME',
-    storageBucket: 'REPLACE_ME',
+   apiKey: "AIzaSyAOrpMpLgqNLTBKHiFsiCWQiHiWFXIRoaw",
+  authDomain: "just-chat-69e37.firebaseapp.com",
+  projectId: "just-chat-69e37",
+  storageBucket: "just-chat-69e37.firebasestorage.app",
+  messagingSenderId: "1061320172505",
+  appId: "1:1061320172505:web:39818267c634d572872fc8"
   );
 }

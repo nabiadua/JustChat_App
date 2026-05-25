@@ -6,7 +6,7 @@ class Conversation {
   final String? lastMessage;
   final Timestamp? lastMessageAt;
 
-  Conversation({
+  const Conversation({
     required this.id,
     required this.participants,
     this.lastMessage,
